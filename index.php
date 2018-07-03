@@ -1,0 +1,5 @@
+<?php
+
+echo"Teste de Programa php para o GIT"
+
+<?
